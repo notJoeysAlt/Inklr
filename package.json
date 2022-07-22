@@ -1,0 +1,14 @@
+{
+  "name": "Inklr",
+  "version": "1.0.0",
+  "description": "desc.",
+  "main": "main.js",
+  "author": "Joey Kerper",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^19.0.8"
+  },
+  "scripts": {
+    "start": "electron ."
+  }
+}

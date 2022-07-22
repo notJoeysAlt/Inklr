@@ -1,0 +1,13 @@
+* { margin: 0; padding: 0; overflow-y: hidden;}
+body { background-color: #000411; height:100%; }
+h1,h2,h3,h4,h5,h6 { font-family: 'Fira Sans', sans-serif; color: #F1F5F2; }
+#clear, #clear2 {
+    opacity: 0;
+    transition: 0.5s opacity;
+    text-align: center;
+}
+#fadeout {
+    opacity: 50%;
+    transition: 0.5s opacity;
+    text-align: center;
+  }
